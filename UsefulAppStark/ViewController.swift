@@ -20,7 +20,7 @@ class Flashcard: Codable{
 class Info{
     static var flashCardArray = [Flashcard]()
 }
-
+//working again
 import UIKit
 
 class ViewController: UIViewController {
