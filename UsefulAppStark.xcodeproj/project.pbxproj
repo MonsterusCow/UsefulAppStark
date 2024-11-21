@@ -34,18 +34,8 @@
 		2830DE402CD4F9EB00C06FB8 /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		28000DF72CCFC5B000F938DC /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 28000DCB2CCFC5AE00F938DC /* UsefulAppStark */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		28000DCE2CCFC5AE00F938DC /* UsefulAppStark */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (28000DF72CCFC5B000F938DC /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = UsefulAppStark; sourceTree = "<group>"; };
+		28000DCE2CCFC5AE00F938DC /* UsefulAppStark */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = UsefulAppStark; sourceTree = "<group>"; };
 		28000DE82CCFC5B000F938DC /* UsefulAppStarkTests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = UsefulAppStarkTests; sourceTree = "<group>"; };
 		28000DF22CCFC5B000F938DC /* UsefulAppStarkUITests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = UsefulAppStarkUITests; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
